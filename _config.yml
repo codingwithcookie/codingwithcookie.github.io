@@ -22,6 +22,12 @@ url: "https://codingwithcookie.com" # the base hostname & protocol for your site
 twitter_username: codingwcookie
 github_username:  codingwithcookie
 
+defaults:
+  - scope:
+      path: "_assets/images"
+    values:
+      image: true
+
 # Build settings
 markdown: kramdown
 theme: minima
