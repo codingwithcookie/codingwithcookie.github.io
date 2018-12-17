@@ -2,7 +2,7 @@
 layout: post
 title:  "Full-Stack .NET Development Tools"
 date:   2017-10-14 00:00:00 -0800
-categories: 
+categories: Tools
 ---
 
 I was recently asked what software I have installed on my machine. So here is my list of software I have installed on my machine to help me as a Full-Stack .Net Developer:
